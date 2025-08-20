@@ -9,10 +9,10 @@
 3. Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics [[pdf]](https://aclanthology.org/2024.lrec-main.423/)  
 (Google, Detect hallucination in RAG)  
 4. Detection, Diagnosis, and Explanation: A Benchmark for  Chinese Medial Hallucination Evaluation [[pdf]](https://aclanthology.org/2024.lrec-main.428/)  
-(PKU, Hallucination detection benchmark, Chinese Medical Evaluation)  
-5. 
+(PKU, Hallucination detection benchmark, Chinese medical evaluation)  
+5. German Also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset](https://aclanthology.org/2024.lrec-main.680/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDg5NjY0NSwtMTY2NTg1NzE4OSw3OT
+eyJoaXN0b3J5IjpbLTk4MDEyMDAwMCwtMTY2NTg1NzE4OSw3OT
 c1MzI4NDcsLTE4MzUyMjQ3OTksLTE0NDkyMzU4MTAsLTIwNjcx
 MzQ5N119
 -->
