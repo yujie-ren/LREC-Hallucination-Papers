@@ -7,8 +7,9 @@
 2. Benchmarking Hallucination in Large Language Models Based on Unanswerable Math Word Problem [[pdf]](https://aclanthology.org/2024.lrec-main.196/)  
 (ECNU, Dataset of 5200 questions, Math problem)  
 3. Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics [[pdf]](https://aclanthology.org/2024.lrec-main.423/)  
-(Google, )
+(Google, Detect hallucination in RAG)  
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NTMyODQ3LC0xODM1MjI0Nzk5LC0xND
-Q5MjM1ODEwLC0yMDY3MTM0OTddfQ==
+eyJoaXN0b3J5IjpbLTE1MDA1ODY5Miw3OTc1MzI4NDcsLTE4Mz
+UyMjQ3OTksLTE0NDkyMzU4MTAsLTIwNjcxMzQ5N119
 -->
