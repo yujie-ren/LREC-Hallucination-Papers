@@ -10,9 +10,10 @@
 (Google, Detect hallucination in RAG)  
 4. Detection, Diagnosis, and Explanation: A Benchmark for  Chinese Medial Hallucination Evaluation [[pdf]](https://aclanthology.org/2024.lrec-main.428/)  
 (PKU, Hallucination detection benchmark, Chinese medical evaluation)  
-5. German Also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset](https://aclanthology.org/2024.lrec-main.680/)**
+5. German Also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset [[pdf]](https://aclanthology.org/2024.lrec-main.680/)  
+()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDEyMDAwMCwtMTY2NTg1NzE4OSw3OT
-c1MzI4NDcsLTE4MzUyMjQ3OTksLTE0NDkyMzU4MTAsLTIwNjcx
-MzQ5N119
+eyJoaXN0b3J5IjpbLTE0Nzc0OTE5MzIsLTE2NjU4NTcxODksNz
+k3NTMyODQ3LC0xODM1MjI0Nzk5LC0xNDQ5MjM1ODEwLC0yMDY3
+MTM0OTddfQ==
 -->
