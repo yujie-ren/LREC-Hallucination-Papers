@@ -11,9 +11,9 @@
 4. Detection, Diagnosis, and Explanation: A Benchmark for  Chinese Medial Hallucination Evaluation [[pdf]](https://aclanthology.org/2024.lrec-main.428/)  
 (PKU, Hallucination detection benchmark, Chinese medical evaluation)  
 5. German Also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset [[pdf]](https://aclanthology.org/2024.lrec-main.680/)  
-()
+(ETH, )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc0OTE5MzIsLTE2NjU4NTcxODksNz
+eyJoaXN0b3J5IjpbLTEyNDg2MjQwODUsLTE2NjU4NTcxODksNz
 k3NTMyODQ3LC0xODM1MjI0Nzk5LC0xNDQ5MjM1ODEwLC0yMDY3
 MTM0OTddfQ==
 -->
