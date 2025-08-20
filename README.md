@@ -13,9 +13,9 @@
 5. German Also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset [[pdf]](https://aclanthology.org/2024.lrec-main.680/)  
 (ETH, Hallucination detection dataset, German news summarization)  
 6. Halwasa: Quantify and Analyze Hallucinations in Large Language Models:  Arabic as a Case Study [[pdf]](https://aclanthology.org/2024.lrec-main.705/)  
-(Qatar, Arabic dataset, )
+(Qatar, Arabic dataset, 10k LLM-generated and annotated data, Short paper)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwMjU4NjcsLTEyNzIwMjYyNzUsLT
-EyNDg2MjQwODUsLTE2NjU4NTcxODksNzk3NTMyODQ3LC0xODM1
-MjI0Nzk5LC0xNDQ5MjM1ODEwLC0yMDY3MTM0OTddfQ==
+eyJoaXN0b3J5IjpbLTg3NjU2ODE1OSwtMTI3MjAyNjI3NSwtMT
+I0ODYyNDA4NSwtMTY2NTg1NzE4OSw3OTc1MzI4NDcsLTE4MzUy
+MjQ3OTksLTE0NDkyMzU4MTAsLTIwNjcxMzQ5N119
 -->
